@@ -23,3 +23,6 @@ This picture shows the difference between growth mindset and fixed mindset:
 
 ![the difference between growth mindset and fixed mindset](https://metrifit.com/wp-content/uploads/2020/08/growthmindsetlandscape.jpg)
 
+hello, I am ahmed alanaswah I'm 26 years old ,I'm a mechanical engineer from University of Jordan I'm here to be a full stack developer.  my github link:
+[ahmad alanaswah github account](https://github.com/Ahmed-Alanaswah)
+
