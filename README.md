@@ -1,4 +1,4 @@
-# Readin-Notes
+# Read-Notes
 
 ## Growth Mindet:
 It is the mentality that a person needs to constantly develop and motivate himself towards development, progress and creativity in order to do his best to achieve success and progress.
