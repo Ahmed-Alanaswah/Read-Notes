@@ -5,6 +5,6 @@ First Header | Second Header
 ------------ | -------------
 growth |[go to growth](https://ahmed-alanaswah.github.io/Read-Notes/growth)
 read01 |[go to read01](https://ahmed-alanaswah.github.io/Read-Notes/read-01)
-read02 |[go to read02](https://ahmed-alanaswah.github.io/Read-Notes/read-02)
-read03 |[go to read03](https://ahmed-alanaswah.github.io/Read-Notes/read-03)
-read04 |[go to read04](https://ahmed-alanaswah.github.io/Read-Notes/read-04)
+read02 |[go to read02](https://ahmed-alanaswah.github.io/Read-Notes/read02)
+read03 |[go to read03](https://ahmed-alanaswah.github.io/Read-Notes/read03)
+read04 |[go to read04](https://ahmed-alanaswah.github.io/Read-Notes/read04)
