@@ -12,7 +12,3 @@ read05 |[go to read05](https://ahmed-alanaswah.github.io/Read-Notes/read05)
 read06 |[go to read06](https://ahmed-alanaswah.github.io/Read-Notes/read06)
 read07 |[go to read07](https://ahmed-alanaswah.github.io/Read-Notes/read07)
 
-<<<<<<< HEAD
-=======
-
->>>>>>> ee1c04edeed4096b726187967e54f460ade21611
