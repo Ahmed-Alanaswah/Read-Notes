@@ -13,7 +13,7 @@ read05 |[go to read05](https://ahmed-alanaswah.github.io/Read-Notes/read05)
 read06 |[go to read06](https://ahmed-alanaswah.github.io/Read-Notes/read06)
 read07 |[go to read07](https://ahmed-alanaswah.github.io/Read-Notes/read07)
 
-<<<<<<< HEAD
+
 
 **Code 201 Reading Notes**
 
@@ -34,5 +34,3 @@ read201-12 |[go to read201-12](https://ahmed-alanaswah.github.io/Read-Notes/read
 read201-13 |[go to read201-13](https://ahmed-alanaswah.github.io/Read-Notes/read201-13)
 read201-14 |[go to read201-14](https://ahmed-alanaswah.github.io/Read-Notes/read201-14)
 read201-15 |[go to read201-15](https://ahmed-alanaswah.github.io/Read-Notes/read201-15)
-=======
->>>>>>> 830dab1787a30f83231d45a826b045b4d47e2679
