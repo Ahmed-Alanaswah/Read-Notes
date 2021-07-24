@@ -1,6 +1,6 @@
 hello my name is ahmed alanaswah i am 26 years old,i am a mechanical engieer graduated from unversity of jordan and i am here to improve my skill as a full tack web developer
 
-**Code 102 Reading Notes**
+## Code 102 Reading Notes
 
 First Header | Second Header
 ------------ | -------------
@@ -15,7 +15,7 @@ read07 |[go to read07](https://ahmed-alanaswah.github.io/Read-Notes/read07)
 
 
 
-**Code 201 Reading Notes**
+## Code 201 Reading Notes
 
 First Header | Second Header
 ------------ | -------------
