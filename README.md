@@ -40,21 +40,20 @@ this web site will include all summerises about what I am reading lectures in co
 
 ## Code 301 - Intermediate Software Development
 
-| First Header | Second Header                                                                 |
-| ------------ | ----------------------------------------------------------------------------- |
-| read301-1    | [go to read301-1](https://ahmed-alanaswah.github.io/Read-Notes/read301-1)     |
-| read301-2    | [go to read301-2](https://ahmed-alanaswah.github.io/Read-Notes/read301-2)     |
-| read301-3    | [go to read301-3](https://ahmed-alanaswah.github.io/Read-Notes/read301-3)     |
-| read301-4    | [go to read301-4](https://ahmed-alanaswah.github.io/Read-Notes/read301-4)     |
-| read301-5    | [go to read301-5](https://ahmed-alanaswah.github.io/Read-Notes/read301-5)     |
-| read301-6    | [go to read301-6](https://ahmed-alanaswah.github.io/Read-Notes/read301-6)     |
-| read301-7    | [go to read301-7](https://ahmed-alanaswah.github.io/Read-Notes/read301-7)     |
-| read301-8    | [go to read301-8](https://ahmed-alanaswah.github.io/Read-Notes/read301-8)     |
-| read301-9    | [go to read301-9](https://ahmed-alanaswah.github.io/Read-Notes/read301-9)     |
-| read301-10   | [go to read301-10](https://ahmed-alanaswah.github.io/Read-Notes/read301-10)   |
-| read301-11   | [go to read301-11](https://ahmed-alanaswah.github.io/Read-Notes/read301-11)   |
-| read301-12   | [go to read301-12](https://ahmed-alanaswah.github.io/Read-Notes/read301-12)   |
-| read301-13   | [go to read301-13](https://ahmed-alanaswah.github.io/Read-Notes/read301-13)   |
-| read301-14   | [go to read301-14](https://ahmed-alanaswah.github.io/Read-Notes/read301-14)   |
-| read301-14b  | [go to read301-14b](https://ahmed-alanaswah.github.io/Read-Notes/read301-14b) |
-| read301-15   | [go to read301-15](https://ahmed-alanaswah.github.io/Read-Notes/read301-15)   |
+| First Header | Second Header                                                               |
+| ------------ | --------------------------------------------------------------------------- |
+| read301-1    | [go to read301-1](https://ahmed-alanaswah.github.io/Read-Notes/read301-1)   |
+| read301-2    | [go to read301-2](https://ahmed-alanaswah.github.io/Read-Notes/read301-2)   |
+| read301-3    | [go to read301-3](https://ahmed-alanaswah.github.io/Read-Notes/read301-3)   |
+| read301-4    | [go to read301-4](https://ahmed-alanaswah.github.io/Read-Notes/read301-4)   |
+| read301-5    | [go to read301-5](https://ahmed-alanaswah.github.io/Read-Notes/read301-5)   |
+| read301-6    | [go to read301-6](https://ahmed-alanaswah.github.io/Read-Notes/read301-6)   |
+| read301-7    | [go to read301-7](https://ahmed-alanaswah.github.io/Read-Notes/read301-7)   |
+| read301-8    | [go to read301-8](https://ahmed-alanaswah.github.io/Read-Notes/read301-8)   |
+| read301-9    | [go to read301-9](https://ahmed-alanaswah.github.io/Read-Notes/read301-9)   |
+| read301-10   | [go to read301-10](https://ahmed-alanaswah.github.io/Read-Notes/read301-10) |
+| read301-11   | [go to read301-11](https://ahmed-alanaswah.github.io/Read-Notes/read301-11) |
+| read301-12   | [go to read301-12](https://ahmed-alanaswah.github.io/Read-Notes/read301-12) |
+| read301-13   | [go to read301-13](https://ahmed-alanaswah.github.io/Read-Notes/read301-13) |
+| read301-14   | [go to read301-14](https://ahmed-alanaswah.github.io/Read-Notes/read301-14) |
+| read301-15   | [go to read301-15](https://ahmed-alanaswah.github.io/Read-Notes/read301-15) |
