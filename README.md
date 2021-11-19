@@ -77,7 +77,7 @@ this web site will include all summerises about what I am reading lectures in co
 | read401-13   | [go to read401-13](https://ahmed-alanaswah.github.io/Read-Notes/read401-13) |
 | read401-14   | [go to read401-14](https://ahmed-alanaswah.github.io/Read-Notes/read401-14) |
 | read401-15   | [go to read401-15](https://ahmed-alanaswah.github.io/Read-Notes/read401-15) |
-| read401-16   | [go to read401-15](https://ahmed-alanaswah.github.io/Read-Notes/read401-16) |
-| read401-17   | [go to read401-15](https://ahmed-alanaswah.github.io/Read-Notes/read401-17) |
-| read401-18   | [go to read401-15](https://ahmed-alanaswah.github.io/Read-Notes/read401-18) |
-| read401-19   | [go to read401-15](https://ahmed-alanaswah.github.io/Read-Notes/read401-19) |
+| read401-16   | [go to read401-16](https://ahmed-alanaswah.github.io/Read-Notes/read401-16) |
+| read401-17   | [go to read401-17](https://ahmed-alanaswah.github.io/Read-Notes/read401-17) |
+| read401-18   | [go to read401-18](https://ahmed-alanaswah.github.io/Read-Notes/read401-18) |
+| read401-19   | [go to read401-19](https://ahmed-alanaswah.github.io/Read-Notes/read401-19) |
