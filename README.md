@@ -92,3 +92,4 @@ this web site will include all summerises about what I am reading lectures in co
 | read40121   | [go to read40121](https://ahmed-alanaswah.github.io/Read-Notes/read40121) |
 | read40122   | [go to read40122](https://ahmed-alanaswah.github.io/Read-Notes/read40122) |
 | read401-23   | [go to read401-23](https://ahmed-alanaswah.github.io/Read-Notes/read401-23) |
+| read401-24   | [go to read401-24](https://ahmed-alanaswah.github.io/Read-Notes/read401-24) |
